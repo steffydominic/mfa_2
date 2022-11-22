@@ -1,0 +1,190 @@
+body{
+    background-color: white;
+    width:900px;
+    height:1200px;
+    margin:50px auto;
+}
+.header{
+display: flex;
+width:900px;
+
+}
+p{
+    font-weight: 400;
+}
+.logo{
+    margin-left: 50px;
+}
+.prenow{
+    background-color:#e7eff2;
+    padding:16px;
+    border-radius: 10px;
+    border-style: none;
+    margin-left:600px;
+}
+#Typemaster{
+    color:#162441;
+    font-family: 'Barlow';
+    font-size:35px;
+}
+.ordernow{
+    padding:16px;
+    border-radius: 10px;
+    border-style: none;
+    background-color: #f36718;
+    color:white;
+    font-size:12px;
+    text-align:center;
+    margin-right: 55px;
+    margin-top: 10px;
+}
+.topcontent{
+  display: flex;
+}
+.sideimg img{
+    width:350px;
+    height: 350px;
+    margin-right:70px;
+    border-radius: 15px;
+    margin-top:40px;
+}
+.imp{
+    width:600px;
+    height:300px;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.keyboard{
+    display:flex;
+    
+}
+.phimg {
+    width:180px;
+    height: 340px;
+    border-radius: 15px;
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color: hsl(22, 89%, 52%);
+    background-image: url(images/image-phone-and-keyboard.jpg); 
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+.keyimg img{
+    width:310px;
+    height: 340px;
+    margin-left:20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+#mec{
+    font-family: 'Barlow';
+    font-size: 22px;
+}
+
+.bottomcontent{
+    display:flex;
+}
+.wireless{
+    margin:50px 0px 0px 60px;
+    width:200px;
+} 
+footer{
+    display:flex;
+    width: 900px;
+}
+.compimg img{
+    background-color: hsl(22, 89%, 52%);
+    padding:15px;
+    border-radius: 10px;
+    width: 20px;
+   
+}
+.high{
+    width: 225px;
+    margin-top:80px;
+}
+.bluetoothimg img{
+    background-color: hsl(22, 89%, 52%);
+    padding:15px;
+    border-radius: 10px;
+    width: 15px;
+    height:15px;
+}
+
+.bluetooth{
+    width: 225px;
+     margin-top:80px; 
+}
+.batteryimg img{
+    background-color: hsl(22, 89%, 52%);
+    padding:15px;
+    border-radius: 10px;
+    width: 20px;
+}
+.battery{
+    width: 225px;
+    margin-top:80px;
+}
+.rgbimg img{
+    background-color: hsl(22, 89%, 52%);
+    padding:15px;
+    border-radius: 10px;
+    width: 20px;
+}
+.rgb{
+    width: 225px;
+    margin-top:80px;
+}
+#hc{
+    font-size:20px;
+    font-family: 'Barlow';
+    margin-top: 20px;
+}
+#wb{
+    font-size:20px;
+    font-family: 'Barlow';
+    margin-top: 20px;
+}
+#highbatt{
+    font-size:20px;
+    font-family: 'Barlow';
+    margin-top: 20px;
+}
+#bm{
+    font-size:20px;
+    font-family: 'Barlow';
+    margin-top: 20px;
+}
+#easy{
+    font-size:11px;
+    color:#939fbb;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+#powerful{
+    font-size:11px;
+    color:#939fbb;
+    font-family:Arial, Helvetica, sans-serif ;;
+}
+#equipped{
+    font-size:11px;
+    color:#939fbb;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+#choose{
+    font-size:11px;
+    color:#939fbb;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+#connect{
+    color:#939fbb;
+}
+#improve{
+    color:#939fbb;
+    font-size: 15px;
+}
+#release{
+    color:#939fbb;
+    font-family: 'Barlow';
+    font-weight:500;
+}
